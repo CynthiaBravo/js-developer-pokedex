@@ -146,6 +146,11 @@
     border-radius: 1rem;
 }
 
+pokedex{
+    width: 100%;
+}
+
+
 @media screen and (min-width: 380px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
